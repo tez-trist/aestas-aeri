@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>https://users.wpi.edu/~tsgalletta/</title>
-    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,18 +11,17 @@
     <meta name="author" content="tezza galletta">
   </head>
   <body style="         background-color: #0B2447" ;="">
- <div id="google_translate_element"></div> 
-     <script type="text/javascript"> 
+    <div id="google_translate_element"></div>
+    <script type="text/javascript"> 
         function googleTranslateElementInit() { 
             new google.translate.TranslateElement(
                 {pageLanguage: 'en'}, 
                 'google_translate_element'
             ); 
         } 
-    </script> 
-    <script type="text/javascript" src=
-"https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
-    </script> 
+    </script>
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script>
     <div id="tswcontainer">
       <div id="tswheader">
         <!-- start of header section -->
@@ -34,8 +33,7 @@
           <!-- start of content column -->
           <h1>my town</h1>
         </div>
-        words
-        <p> </p>
+        <p>  </p>
       </div>
       <div id="tswsidecol">
         <div id="tswsideproper">
@@ -54,6 +52,5 @@
         <p>Created on July 11th-?? 2023.</p>
         <!-- end of footer section --> </div>
     </div>
-    
   </body>
 </html>

@@ -78,7 +78,29 @@ div#tswfooter {
     border-width: 2px;
     width: calc(100% - 10px);
 }
-.googlecolor {
+.collapsible {
 
-    color: #0B2447;
+    background-color:#0B2447;
+    color: #A5D7E8;
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    border: 5px;
+    text-align: center;
+    outline: none;
+    font-size: medium;
+
+}
+.collapsible2:hover {
+
+    background-color: #576CBC;
+}
+
+.content {
+
+    padding: 15px;
+    display: none;
+    overflow: hidden;
+    background-color: #0B2447;
+
 }

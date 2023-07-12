@@ -10,11 +10,11 @@
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
     <meta name="author" content="tezza galletta">
   </head>
-  <body style="                                      background-color: #0B2447"
+  <body style="                                                       background-color: #0B2447"
 
     ;="">
     <div id="google_translate_element"></div>
-     &nbsp;
+    emu&nbsp;
     <script type="text/javascript"> 
         function googleTranslateElementInit() { 
             new google.translate.TranslateElement(
@@ -36,11 +36,10 @@
           <!-- start of content column -->
           <h1>interests</h1>
         </div>
-        <p> words </p>
-        <iframe src="https://www.youtube.com/embed/iaqKlL0jWk8" height=" 315="
-
-          width="
-          420"> </iframe> </div>
+        <p> </p>
+        <div> <iframe src="https://www.youtube.com/embed/iaqKlL0jWk8" width="420" height="315">
+          </iframe> </div>
+      </div>
       <div id="tswsidecol">
         <div id="tswsideproper">
           <div id="tswcssbuttons">
