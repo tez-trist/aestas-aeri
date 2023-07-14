@@ -10,11 +10,8 @@
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
     <meta name="author" content="tezza galletta">
   </head>
-  <body style="                                                       background-color: #0B2447"
-
-    ;="">
+  <body style="                               background-color: #0B2447" ;="">
     <div id="google_translate_element"></div>
-    emu&nbsp;
     <script type="text/javascript"> 
         function googleTranslateElementInit() { 
             new google.translate.TranslateElement(
@@ -33,13 +30,33 @@
         <!-- end of header section --> </div>
       <div class="center border" id="tswcontent">
         <div id="tswcontproper">
-          <!-- start of content column -->
-          <h1>interests</h1>
-        </div>
-        <p> </p>
-        <div> <iframe src="https://www.youtube.com/embed/iaqKlL0jWk8" width="420" height="315">
-          </iframe> </div>
-      </div>
+          <!-- start of content column --> <button type="button" class="collapsible collapsible2">Interests!</button>
+          <div class="content">
+            <p> hello! welcome to my site! you will navigate my site using the
+              same actions as you have previously. <br>
+              this is my about me. </p>
+            <iframe src="https://www.youtube.com/embed/LTRWgZjRViw?autoplay=1" title="YouTube video player"
+
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+              allowfullscreen="" height="315" frameborder="0" width="560"></iframe>
+          </div>
+          <script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script> </div> </div>
       <div id="tswsidecol">
         <div id="tswsideproper">
           <div id="tswcssbuttons">

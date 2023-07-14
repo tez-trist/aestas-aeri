@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+}
+
+#button {
+
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    width: 200px;
+    border: none;
+    color: darkslateblue;
+    padding: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+#face {
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    margin: 50px auto;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10 px;
+    font-size: 80px;
+}
