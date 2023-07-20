@@ -1,17 +1,18 @@
 body {
     text-align: center;
- 
+    background-color: rgb(40, 124, 124);
 }
 
 h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 60px;
-    color:lightcoral;
+    color:rgb(37, 235, 235);
 }
 #scoreboard {
-    color:lightcoral;
+    color: aqua; 
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(40, 124, 124);
 }
 
 #reset {

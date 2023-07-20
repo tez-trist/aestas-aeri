@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
     <meta name="author" content="tezza galletta">
   </head>
-  <body style="          background-color: #0B2447" ;="">
+  <body style="           background-color: #0B2447" ;="">
     <div id="google_translate_element"></div>
     <script type="text/javascript"> 
         function googleTranslateElementInit() { 
@@ -35,7 +35,9 @@
           <div class="content">
             <p> hello! welcome to my site! you will navigate my site using the
               same actions as you have previously. <br>
-              this is my about me. </p>
+              this is my about me. <br>
+              here is a directory to other projects created/worked on: <a href="dice3D/dice3d.html">click
+                here to access to 3d dice roller!</a> <br> <a href="robpong/pong.html">click here to access pong!</a></p>
           </div>
           <script>
 var coll = document.getElementsByClassName("collapsible");
@@ -70,6 +72,5 @@ for (i = 0; i < coll.length; i++) {
         <p>Created on July 11th-?? 2023.</p>
         <!-- end of footer section --> </div>
     </div>
-    
   </body>
 </html>
